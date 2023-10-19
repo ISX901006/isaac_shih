@@ -8,6 +8,7 @@
 7. 《影音串流輿情聲量分析_Y231002》(https://reurl.cc/8N9274)
 8. 《利用weka對資料集進行分群分析–以2021年中華職棒打者為例》
 9.  大專生研究計畫
+[點我查看 Scikit_learn_MLPractice.ipynb](Scikit_learn_MLPractice.ipynb)
 
 # 作品集說明
 ## Python Scikit-learn 
